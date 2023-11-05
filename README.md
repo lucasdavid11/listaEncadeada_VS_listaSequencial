@@ -3,7 +3,7 @@
 # Sobre o projeto
 
 Sistema ETL programado em C
-utilizando leitura de dados de arquivos .txt
+para leitura de dados de arquivos .txt
 e armazenamento em listas encadeadas ou listas
 sequenciais.
 
