@@ -14,8 +14,8 @@ Métodos para listas sequenciais:
 - Adicionar no meio da lista
 - Adicionar no fim da lista
 - Remover do inicio da lista
-- Remover no meio da lista
-- Remover no fim da lista
+- Remover do meio da lista
+- Remover do fim da lista
 - Busca sequencial de dados da lista
 - Busca binaria de dados da lista
 - Ordenacao da lista usando o metodo Selection
@@ -33,8 +33,8 @@ Métodos para listas encadeadas:
 - Adicionar no meio da lista
 - Adicionar no fim da lista
 - Remover do inicio da lista
-- Remover no meio da lista
-- Remover no fim da lista
+- Remover do meio da lista
+- Remover do fim da lista
 - Busca sequencial de dados da lista
 - Impressao da lista
 - Salvar lista em novo arquivo .txt
