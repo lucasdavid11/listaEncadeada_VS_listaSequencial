@@ -1,4 +1,4 @@
-# pysnake
+# listaEncadeada_VS_listaSequencial
 
 # Sobre o projeto
 
